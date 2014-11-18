@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ClientId: 1
+  DayOfTheYear: 1
+  BookingId: 1
+
+two:
+  ClientId: 1
+  DayOfTheYear: 1
+  BookingId: 1

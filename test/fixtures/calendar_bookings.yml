@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  RentalProviderId: 1
+  GuestDetailsId: 1
+  TotalPrice: 9.99
+
+two:
+  RentalProviderId: 1
+  GuestDetailsId: 1
+  TotalPrice: 9.99
