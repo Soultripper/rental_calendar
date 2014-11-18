@@ -30,7 +30,9 @@ gem 'icalendar'
 gem 'twitter-bootstrap-rails'
 
 gem 'awesome_print'
-# Use ActiveModel has_secure_password
+gem 'activeadmin', github: 'activeadmin'
+gem 'devise'
+  # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
 # Use unicorn as the app server
